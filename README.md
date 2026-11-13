@@ -9,7 +9,14 @@ Noyau logiciel de recherche pour le calcul géométrique sur graphes, le diagnos
 **Version :** 0.1.0  
 **Licence :** Apache-2.0
 
-## Archivage Zenodo
+## Archivage et relations
+
+- **Noyau logiciel EHK-SCCI Core v0.1.0 :** [https://doi.org/10.5281/zenodo.24184737](https://doi.org/10.5281/zenodo.24184737)
+
+- **Cadre méthodologique EHK-SCCI (v1, archive historique) :** [https://doi.org/10.5281/zenodo.23968613](https://doi.org/10.5281/zenodo.23968613)
+
+Le premier enregistrement archive le noyau logiciel. Le second archive une formulation méthodologique antérieure, incluant un manuscrit, ses sources LaTeX et une archive de code historique.
+
 
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.24184737.svg)](https://doi.org/10.5281/zenodo.24184737)
 
