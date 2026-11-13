@@ -1,3 +1,4 @@
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.24184737.svg)](https://doi.org/10.5281/zenodo.24184737)
 # EHK–SCCI Core
 
 Noyau logiciel de recherche pour le calcul géométrique sur graphes,
@@ -217,11 +218,26 @@ Elle ne valide pas son contenu scientifique.
 
 ## Citation et archivage
 
-Archivage Zenodo de la version 0.1.0 : https://doi.org/10.5281/zenodo.24184737
+**Archivage Zenodo de la version 0.1.0 :** [https://doi.org/10.5281/zenodo.24184737](https://doi.org/10.5281/zenodo.24184737)
 
-Protocole méthodologique associé : https://doi.org/10.5281/zenodo.24141069
-https://doi.org/10.5281/zenodo.24047126
-https://doi.org/10.5281/zenodo.23445141
+**Protocole méthodologique associé :**
+
+- [Articulation formelle : du noyau de transport optimal W1 à l’invariant d’entonnoir J(v)](https://doi.org/10.5281/zenodo.24141069)
+- [EHK–SCCI : cadre variationnel et géométrique pour la régulation des représentations latentes, la détection d'anomalies et l'abstention contrôlée
+  ](https://doi.org/10.5281/zenodo.24047126)
+- [ EHK-SCCI / — Termux ARM64 corrigée v2 - 4x SHA-256 OK](https://doi.org/10.5281/zenodo.23445141)
+-
+- ## Référence de provenance des données
+
+Le protocole d’intégration avec le jeu de données Elliptic fait référence à une ressource cataloguée dans le NLM Dataset Catalog :
+
+## Référence de provenance des données
+
+Le protocole d’intégration avec le jeu de données Elliptic fait référence à une ressource catalogué.
+Ce référencement indique une source documentaire ou de provenance. Il ne constitue pas une validation scientifique du logiciel EHK-SCCI Core, du protocole de benchmarking ou des résultats obtenus.
+- [NLM Dataset Catalog — recherche 0003380829](https://datasetcatalog.nlm.nih.gov/dataset?q=0003380829)
+
+Un fichier `CITATION.cff` précise les informations de citation.
 Un fichier `CITATION.cff` précisera les informations de citation.
 
 
