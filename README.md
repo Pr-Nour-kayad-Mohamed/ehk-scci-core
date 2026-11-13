@@ -217,9 +217,11 @@ Elle ne valide pas son contenu scientifique.
 
 ## Citation et archivage
 
-L’archivage Zenodo de cette version est en préparation.
-Aucun DOI logiciel n’est indiqué tant que l’archivage n’a pas été confirmé.
+Archivage Zenodo de la version 0.1.0 : https://doi.org/10.5281/zenodo.24184737
 
+Protocole méthodologique associé : https://doi.org/10.5281/zenodo.24141069
+https://doi.org/10.5281/zenodo.24047126
+https://doi.org/10.5281/zenodo.23445141
 Un fichier `CITATION.cff` précisera les informations de citation.
 
 
