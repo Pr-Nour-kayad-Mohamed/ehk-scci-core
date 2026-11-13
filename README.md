@@ -4,25 +4,30 @@
 
 Noyau logiciel de recherche pour le calcul géométrique sur graphes, le diagnostic discriminant et les politiques de supervision.
 
-**Auteur :** NOUR KAYAD Mohamed  
-**Affiliation :** Ministère de l’Éducation nationale et de la Formation professionnelle (MENFOP), République de Djibouti  
-**Version :** 0.1.0  
-**Licence :** Apache-2.0
+**Auteur :** Mohamed Nour Kayad  
+**Affiliation :**[Ministère de l’Éducation nationale et de la Formation Professionnelle,république de djibouti (MENFOP) — Djibouti]
+**Version initiale :** 0.1.0
 
-## Statut
 
-Prototype de recherche en développement. Les tests et l’intégration continue vérifient les comportements couverts par la suite de tests ; ils ne constituent ni une certification de sûreté, ni une validation industrielle, ni une démonstration de performance sur un système physique réel.
+## Citation et archivage
 
-## Modules
+**Archivage Zenodo de la version 0.1.0 :**  
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.24184737.svg)](https://doi.org/10.5281/zenodo.24184737)
 
-| Module | Emplacement | Périmètre |
-|---|---|---|
-| W1 | `src/ehk_scci/curvature/w1_core.py` | Transport Wasserstein-1 sur graphes |
-| Discriminant | `src/ehk_scci/spectral/discriminant_core.py` | Fonctions discriminantes |
-| Politique | `src/ehk_scci/safety/policy_core.py` | Règles de décision et supervision |
+**Protocole méthodologique associé :**
 
-## Tests
+- [Articulation formelle : du noyau de transport optimal W1 à l’invariant d’entonnoir J(v)](https://doi.org/10.5281/zenodo.24141069)
+- [EHK–SCCI : cadre variationnel et géométrique pour la régulation des représentations latentes, la détection d’anomalies et l’abstention contrôlée](https://doi.org/10.5281/zenodo.23968613)
+- [EHK-SCCI / — Termux ARM64 corrigée v2 — 4x SHA-256 OK](https://doi.org/10.5281/zenodo.24047126)
 
-```bash
-python -m pip install -e ".[test]"
-python -m pytest -v
+## Référence de provenance des données
+
+Le protocole d’intégration avec le jeu de données Elliptic fait référence à une ressource cataloguée dans le NLM Dataset Catalog :
+
+- [NLM Dataset Catalog — recherche 0003380829](https://datasetcatalog.nlm.nih.gov/dataset?q=0003380829)
+
+Ce référencement indique une source documentaire ou de provenance. Il ne constitue pas une validation scientifique du logiciel EHK-SCCI Core, du protocole de benchmarking ou des résultats obtenus.
+
+## Fichier de citation
+
+Un fichier `CITATION.cff` précise les informations de citation.
