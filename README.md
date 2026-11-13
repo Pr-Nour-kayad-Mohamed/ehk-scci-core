@@ -6,7 +6,8 @@ Noyau logiciel de recherche pour le calcul géométrique sur graphes, le diagnos
 
 **Auteur :** NOUR KAYAD Mohamed  
 **Affiliation :** Ministère de l’Éducation nationale et de la Formation professionnelle (MENFOP), République de Djibouti  
-**Version initiale :** 0.1.0
+**Version initiale :** 0.1.0  
+**Licence :** Apache-2.0
 
 ## Statut du projet
 
@@ -16,7 +17,7 @@ Les tests unitaires et l’intégration continue vérifient les comportements co
 
 Le dépôt ne doit pas être utilisé seul comme mécanisme de protection d’un équipement critique.
 
-## Modules actuellement présents
+## Modules
 
 | Module | Emplacement | Périmètre |
 |---|---|---|
@@ -24,7 +25,7 @@ Le dépôt ne doit pas être utilisé seul comme mécanisme de protection d’un
 | Discriminant | `src/ehk_scci/spectral/discriminant_core.py` | Calcul et vérification des fonctions discriminantes implémentées |
 | Politique | `src/ehk_scci/safety/policy_core.py` | Règles de décision et politiques de supervision implémentées |
 
-Les définitions exactes, hypothèses et conventions doivent être consultées dans le code et les tests associés.
+Les définitions exactes, les hypothèses et les conventions doivent être consultées dans le code et les tests associés.
 
 ## Organisation du dépôt
 
