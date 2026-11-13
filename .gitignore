@@ -1,0 +1,43 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.eggs/
+build/
+dist/
+
+# Tests et couverture
+.pytest_cache/
+.coverage
+coverage.xml
+coverage_html/
+htmlcov/
+junit/
+
+# Données et artefacts générés
+*.parquet
+*.parquet.zst
+*.tar.zst
+*.zip
+*.tar
+*.gz
+data/
+datasets/
+.ci_output/
+.benchmark_smoke/
+.ci_smoke_output/
+
+# Environnement et secrets
+.venv/
+venv/
+.env
+*.env
+*.key
+*.pem
+*.p12
+credentials.json
+secrets.yaml
+
+# Système
+.DS_Store
+Thumbs.db

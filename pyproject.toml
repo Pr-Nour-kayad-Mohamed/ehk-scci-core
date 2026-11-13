@@ -1,0 +1,24 @@
+[project]
+name = "ehk-scci-core"
+version = "0.1.0"
+description = "Noyau d'analyse géométrique et de raisonnement agentique EHK-SCCI"
+requires-python = ">=3.10"
+dependencies = [
+    "pandas>=2.2",
+    "pyarrow>=16.0",
+    "numpy>=1.26",
+    "networkx>=3.3",
+    "jsonschema>=4.21"
+]
+
+[project.optional-dependencies]
+test = [
+    "pytest>=8.0",
+    "pytest-cov>=5.0",
+    "coverage>=7.6"
+]
+
+[build-system]
+requires = ["setuptools>=61.0"]
+build-backend = "setuptools.build_meta"
+
