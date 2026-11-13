@@ -1,0 +1,37 @@
+cff-version: 1.2.0
+message: >-
+  If you use EHK-SCCI Core in your research or software,
+  please cite this software using the metadata below.
+type: software
+title: "EHK-SCCI Core"
+version: "0.1.0"
+
+authors:
+  - family-names: "NOUR KAYAD"
+    given-names: "Mohamed"
+    affiliation: >-
+      Ministère de l’Éducation nationale et de la Formation
+      professionnelle (MENFOP), République de Djibouti
+    orcid: "https://orcid.org/0009-0002-1443-7599"
+
+repository-code: "https://github.com/Pr-Nour-kayad-Mohamed/ehk-scci-core"
+url: "https://github.com/Pr-Nour-kayad-Mohamed/ehk-scci-core"
+
+license: Apache-2.0
+
+abstract: >-
+  EHK-SCCI Core is a research software prototype for geometric
+  computations on graphs, discriminant analysis, and supervisory
+  decision policies. The initial implementation includes
+  Wasserstein-1 computations, discriminant functions, and safety
+  policy modules with unit tests and continuous integration.
+  This software does not constitute industrial validation
+  or safety certification.
+
+keywords:
+  - EHK-SCCI
+  - graph geometry
+  - Wasserstein distance
+  - discriminant analysis
+  - supervisory control
+  - reproducible research
