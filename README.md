@@ -222,18 +222,10 @@ Aucun DOI logiciel n’est indiqué tant que l’archivage n’a pas été confi
 
 Un fichier `CITATION.cff` précisera les informations de citation.
 
+
 ## Licence
 
-La licence du logiciel doit être précisée dans un fichier `LICENSE`
-avant la diffusion de la release.
+EHK–SCCI Core est distribué sous la licence Apache-2.0.
+Voir le fichier [LICENSE](LICENSE) pour le texte intégral.
 
-La visibilité publique du dépôt ne vaut pas, à elle seule,
-autorisation générale de réutilisation.
-
-## Contributions
-
-Les propositions de correction peuvent être soumises par issue
-ou pull request.
-
-Toute modification doit préciser son objectif et, lorsque pertinent,
-inclure des tests reproductibles.
+Copyright 2026 NOUR KAYAD Mohamed.
